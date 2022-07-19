@@ -1,6 +1,6 @@
-# Polkadot Example
+# React Substrate Base
 
-### A boilerplate for Polkadot dapps
+### A boilerplate for dapps build on Substrate / Polkadot
 
 ## Setup
 
@@ -11,3 +11,7 @@ yarn
 ```
 
 Rename `.env.example` to `.env` and fill in environment variables.
+
+```
+yarn start
+```
